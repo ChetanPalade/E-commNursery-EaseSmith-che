@@ -2,6 +2,30 @@
 
 This project is a simple React-based e-commerce product listing application with functional pagination. It includes features like product listing, adding products to a cart, a thank you page after completing a purchase, and pagination to navigate through multiple products.
 
+# Video Recording:
+[https://drive.google.com/file/d/1k1oja-fg-SheOTN6Gi7xOqXL6rlGFEjo/view?usp=sharing]
+
+# Deployment Link: 
+[https://e-commnursery-easesmith-chet19.onrender.com/]
+
+# Screenshots
+![Screenshot (1340)](https://github.com/user-attachments/assets/a5522c0d-4bd4-43c7-bd34-823a812f0a5d)
+
+![Screenshot (1341)](https://github.com/user-attachments/assets/1f7847ff-024a-4dd0-aaee-998f89cb5849)
+
+![Screenshot (1345)](https://github.com/user-attachments/assets/aa21ed18-5587-4e38-b6af-21c9fe57bef8)\
+
+![Screenshot (1344)](https://github.com/user-attachments/assets/3330a880-ab07-4a1b-9ddb-2fee9f9fc7f5)
+![Screenshot (1343)](https://github.com/user-attachments/assets/bc428d4a-206e-4103-8b6c-647a0ebd8c4c)
+![Screenshot (1342)](https://github.com/user-attachments/assets/287ced94-c587-46cb-a8bd-c6d3676ecd67)
+![Screenshot (1346)](https://github.com/user-attachments/assets/b1707372-f385-4580-ae89-40b39280be26)
+![Screenshot (1349)](https://github.com/user-attachments/assets/30693f46-7d56-4084-a70e-e152e166c0da)
+![Screenshot (1350)](https://github.com/user-attachments/assets/d1903812-1d21-426e-ba71-5857bf371f82)
+![Screenshot (1351)](https://github.com/user-attachments/assets/cf2ff399-60ba-4bad-94a2-038b3506d94d)
+![Screenshot (1352)](https://github.com/user-attachments/assets/b9aa3630-fd5f-4c3b-b88e-ba2670872d18)
+
+
+
 # Features
 Product List: Displays a list of products with options to add them to the cart or view details.
 Cart Modal: When a product is added to the cart, a modal appears with the product details.
@@ -66,7 +90,7 @@ To run the application locally:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/e-commerce-pagination-app.git
+git clone {https://github.com/ChetanPalade/E-commNursery-EaseSmith-che.git]
 
 2. Navigate to the project directory:
 
