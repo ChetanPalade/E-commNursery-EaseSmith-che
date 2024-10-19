@@ -1,0 +1,88 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+nav ul li {
+  cursor: pointer;
+  color: #4CAF50;
+}
+
+.search-bar input {
+  padding: 10px;
+  border-radius: 2px;
+  border: 1px solid #ddd;
+}
+
+.icons span {
+  margin-left: 20px;
+  cursor: pointer;
+  color: #333;
+}
+
+.icons:hover{
+    transform: scale(1.03);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+
+
+.header input[type="text"] {
+  width: 100%;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.header .icons {
+  display: flex;
+  gap: 15px;
+}
+
+.header .icons img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+/* Responsive Header */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .header .search-bar {
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .header .icons {
+    justify-content: center;
+  }
+}
